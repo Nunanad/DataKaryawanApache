@@ -1,7 +1,7 @@
 # Program Manajemen Data Karyawan
 
 Program ini adalah sistem manajemen data karyawan sederhana berbasis Java.  
-Program memungkinkan pengguna untuk menambahkan, melihat, mengubah, dan menghapus data karyawan menggunakan **ArrayList**.
+Program memungkinkan pengguna untuk menambahkan, melihat, mengubah, dan menghapus data karyawan secara lebih efisien.
 
 ## Fitur
 - Tambah data karyawan
